@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Conduit",
+      "hasCanvas": false,
+      "bodyTextLen": 720,
+      "bodyTextHash": "4a543e7306cc63042b41ffb0af22c9a6a44cc127cf02132b8754ab973dd279f7",
+      "bodyTextPrefix": "UNIT IV · TRANSPORTATION Conduit Flashcards from the endocrine, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Conduit",
+      "hasCanvas": false,
+      "bodyTextLen": 720,
+      "bodyTextHash": "4a543e7306cc63042b41ffb0af22c9a6a44cc127cf02132b8754ab973dd279f7",
+      "bodyTextPrefix": "UNIT IV · TRANSPORTATION Conduit Flashcards from the endocrine, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
